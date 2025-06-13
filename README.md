@@ -1,10 +1,10 @@
-# Influensic Assets
+# Cloutr. Assets
 
-This repository contains all the digital branding assets for Influensic, including logos, banners, images, and other media used across the platform.
+This repository contains all the digital branding assets for Cloutr, including logos, banners, images, and other media used across the platform.
 
 ## 📂 Asset Types
 
-- **Logos:** The official logos of Influensic for various uses.
+- **Logos:** The official logos of Cloutr for various uses.
 - **Banners:** Marketing banners, web headers, and promotional images.
 - **Icons:** Various icons used within the platform.
 - **Marketing Materials:** Digital brochures, flyers, and other collateral.
@@ -36,7 +36,7 @@ You can download and use the assets according to the following guidelines:
 ### 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/Influensic/assets.git
+git clone https://github.com/cloutrapp/assets.git
 cd assets
 ```
 
@@ -60,9 +60,11 @@ Please ensure you are following the brand guidelines when using any asset for pu
 - **Logo Usage**: Avoid stretching, rotating, or altering the logos in any way that may distort the brand’s identity.
 
 ### Accessing Guidelines
-For full branding guidelines (including logo size, spacing, and color codes), please check the Influensic Branding Guide.
+
+For full branding guidelines (including logo size, spacing, and color codes), please check the Cloutr Branding Guide.
 
 ## 🔐 License
-The assets in this repository are proprietary to Influensic and should be used in accordance with the organization's brand policies.
+
+The assets in this repository are proprietary to Cloutr and should be used in accordance with the organization's brand policies.
 
 Do not distribute or use the assets for non-approved purposes.
